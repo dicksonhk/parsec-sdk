@@ -55,3 +55,6 @@ examples/unity-rewired/Assets/ParsecUnity/ParsecUnity46.dll
 sdk/ParsecUnity/parsec.bundle
 sdk/ParsecUnity/parsec.dll
 sdk/ParsecUnity/parsec32.dll
+
+.idea
+*build*

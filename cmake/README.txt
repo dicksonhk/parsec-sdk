@@ -1,0 +1,3 @@
+The Parsec SDK allows your application to make interactive, low-latency peer-to-peer connections for the purpose of game streaming. The SDK handles the low level internals of peer-to-peer connectivity, networking, and hardware accelerated video/audio processing. It is lightweight, consisting of a [single header file](/sdk/parsec.h) and a shared object < 5MB.
+
+For questions, suggestions, concerns, and support, visit the [Parsec SDK Server on Discord](https://discord.gg/xQaTQt2).
